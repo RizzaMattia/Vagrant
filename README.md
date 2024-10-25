@@ -2,7 +2,7 @@
 **Mattia Rizza**
 I4BC
 
----
+--
 
 # Credenziali Database MySQL
 
@@ -10,7 +10,7 @@ I4BC
 **Password:** admin  
 **Database Personale:** mattia_rizza
 
----
+--
 
 # Informazioni
 
