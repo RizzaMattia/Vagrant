@@ -12,7 +12,7 @@ I4BC
 
 ---
 
-#Informazioni
+# Informazioni
 
 Il file presente nella directory `SitoWeb` chiamato `index.php` è l'applicativo [Adminer](https://www.adminer.org/).
 
